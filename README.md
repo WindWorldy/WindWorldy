@@ -1,6 +1,6 @@
 <H1>Welcome!</H1>
 
-![WindWorldy](https://github.com/WindWorldy/WindWorldy/blob/main/Screenshot 2024-08-14 182401)
+![WindWorldy](https://github.com/WindWorldy/WindWorldy/blob/main/Screenshot%202024-08-14%20182401.png)
 
 - 👋 Hi, I’m @WindWorldy
 - 👀 I’m interested in C/C++ Coding language
