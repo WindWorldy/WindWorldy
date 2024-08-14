@@ -1,6 +1,6 @@
 <H1>Welcome!</H1>
 
-![Endermanch](https://github.com/WindWorldy/WindWorldy/blob/main/header.png)
+![WindWorldy](https://github.com/WindWorldy/WindWorldy/blob/main/Screenshot 2024-08-14 182401)
 
 - 👋 Hi, I’m @WindWorldy
 - 👀 I’m interested in C/C++ Coding language
